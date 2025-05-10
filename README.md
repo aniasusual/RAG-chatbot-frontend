@@ -53,8 +53,7 @@ Welcome to the **NewsBot Frontend**, a sleek, modern, and responsive chat interf
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd chatbot/frontend
+   git clone https://github.com/aniasusual/RAG-chatbot-frontend.git
    ```
 
 2. **Install dependencies**:
@@ -115,4 +114,4 @@ MIT
 
 ---
 
-**Built with 💻 and ☕ by [Your Name]**
+**Built with 💻 and ☕ by Animesh**
