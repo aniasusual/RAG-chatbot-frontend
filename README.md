@@ -63,7 +63,7 @@ Welcome to the **NewsBot Frontend**, a sleek, modern, and responsive chat interf
    ```
 
 3. **Configure environment variables**:
-   Create a `.env` file in the `frontend` directory:
+   Create a `.env` file in the `RAG-chatbot-frontend` directory:
 
    ```env
    VITE_API_BACKEND_URL=http://localhost:5000
